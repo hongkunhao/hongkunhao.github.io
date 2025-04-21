@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
-I am currently a second-year master student (2022 - present) at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of [Prof. Rui Wang](https://wangruinlp.github.io/). Before that, I received my bachelor degree in Computer Science and Engineering from Shanghai Jiao Tong University (SJTU) in 2022.
+I am currently an algorithm engineer (2025 - present)  in the Language Technology Lab at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/), working mainly on multilingualism of Multimodal Large Language Model. Before that, I received my master and bachelor degree in Computer Science and Engineering from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of [Prof. Rui Wang](https://wangruinlp.github.io/). 
 
-I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (2023 with Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/?from=https://research.microsoft.com/en-us/people/shujliu/&type=exact) and [Long Zhou](https://long-zhou.github.io/)) and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) (2021-2023 with Dr. [Lemao Liu](https://lemaoliu.github.io/homepage/)). Now I am a machine learning engineer intern at [ByteDance](https://www.bytedance.com/en/), working on multimodal large language models.
+I fortunately interned at [ByteDance](https://www.bytedance.com/en/) (2024), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (2023 with Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/?from=https://research.microsoft.com/en-us/people/shujliu/&type=exact) and [Long Zhou](https://long-zhou.github.io/)), and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) (2021-2023 with Dr. [Lemao Liu](https://lemaoliu.github.io/homepage/)). Now I am a machine learning engineer intern at [ByteDance](https://www.bytedance.com/en/), working on multimodal large language models.
 
 
 # 🔬 Research Interest
 
 **Large Language Model**: Multimodal Large Language Models, Speech Large Language Model, Video Understanding Large Language Model, etc.
 
-**Natural Language Processing**: Neural Machine Translation, Open-Ended Text Generation, etc.
+**Natural Language Processing**: Multilingualism, Neural Machine Translation, etc.
 
 
 # 🔥 News
@@ -46,6 +46,13 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
 
 # 📝 Publications 
 \* denotes co-first authors
+- [Boosting Large Language Model for Speech Synthesis: An Empirical Study](https://arxiv.org/abs/2401.00246.pdf)
+  
+  **Hongkun Hao**, Long Zhou, Shujie Liu, Jinyu Li, Shujie Hu, Rui Wang, Furu Wei
+
+  ``ICASSP 2025`` \| <button class="copy-btn" data-bib-file="hao2023boosting">BIB</button>
+
+
 - [Rethinking Translation Memory Augmented Neural Machine Translation](https://aclanthology.org/2023.findings-acl.162/)
 
   **Hongkun Hao**, Guoping Huang, Lemao Liu, Zhirui Zhang, Shuming Shi, Rui Wang
@@ -95,28 +102,21 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
   ``ACM MM 2024`` \| <button class="copy-btn" data-bib-file="li2024grefine">BIB</button>
 
 
+- [WavLLM: Towards Robust and Adaptive Speech Large Language Model](https://arxiv.org/abs/2404.00656)
+
+  Shujie Hu, Long Zhou, Shujie Liu, Sanyuan Chen, **Hongkun Hao**, Jing Pan, Xunying Liu, Jinyu Li, Sunit Sivasankaran, Linquan Liu, Furu Wei
+
+  ``EMNLP 2024 Findings`` \| <button class="copy-btn" data-bib-file="hu2024wavllm">BIB</button>
+
+
 <span class='anchor' id='preprints'></span>
 # 🖨️ Preprints
 \* denotes co-first authors
-- [Boosting Large Language Model for Speech Synthesis: An Empirical Study](https://arxiv.org/abs/2401.00246.pdf)
-  
-  **Hongkun Hao**, Long Zhou, Shujie Liu, Jinyu Li, Shujie Hu, Rui Wang, Furu Wei
-
-  <button class="copy-btn" data-bib-file="hao2023boosting">BIB</button>
-
-
 - [Is Cognition and Action Consistent or Not: Investigating Large Language Model's Personality](https://arxiv.org/abs/2402.14679)
 
   Yiming Ai, Zhiwei He, Ziyin Zhang, Wenhong Zhu, **Hongkun Hao**, Kai Yu, Lingjun Chen, Rui Wang
 
   <button class="copy-btn" data-bib-file="ai2024cognition">BIB</button>
-
-
-- [WavLLM: Towards Robust and Adaptive Speech Large Language Model](https://arxiv.org/abs/2404.00656)
-
-  Shujie Hu, Long Zhou, Shujie Liu, Sanyuan Chen, **Hongkun Hao**, Jing Pan, Xunying Liu, Jinyu Li, Sunit Sivasankaran, Linquan Liu, Furu Wei
-
-  <button class="copy-btn" data-bib-file="hu2024wavllm">BIB</button>
 
 
 - [Multiple-Choice Questions are Efficient and Robust LLM Evaluators](https://arxiv.org/abs/2405.11966)
@@ -127,12 +127,12 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
 
 
 # 📖 Education
-- *2022.09 - 2025.03 (expected)*, Master of Science in Computer Science and Engineering, Shanghai Jiao Tong University.
+- *2022.09 - 2025.03*, Master of Science in Computer Science and Engineering, Shanghai Jiao Tong University.
 - *2018.09 - 2022.06*, Bachelor of Engineering in Computer Science and Engineering, Shanghai Jiao Tong University.
 
 
 # 💻 Internship
-- *2024.01 - present*: [ByteDance](https://www.bytedance.com/en/), Shanghai, China.
+- *2024.01 - 2024.09*: [ByteDance](https://www.bytedance.com/en/), Shanghai, China.
 - *2023.04 - 2023.11*: [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China.
 - *2022.12 - 2023.01*: [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), Shenzhen, China.
 
