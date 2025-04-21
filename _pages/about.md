@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
-I am currently an algorithm engineer (2025 - present)  in the Language Technology Lab at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/), working mainly on multilingualism of Multimodal Large Language Model. Before that, I received my master and bachelor degree in Computer Science and Engineering from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of [Prof. Rui Wang](https://wangruinlp.github.io/). 
+I am currently an algorithm engineer (2025 - present)  in the Language Technology Lab at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/), working mainly on multilingualism of multimodal large language models. Before that, I received my master and bachelor degree in Computer Science and Engineering from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of [Prof. Rui Wang](https://wangruinlp.github.io/). 
 
 I fortunately interned at [ByteDance](https://www.bytedance.com/en/) (2024), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (2023 with Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/?from=https://research.microsoft.com/en-us/people/shujliu/&type=exact) and [Long Zhou](https://long-zhou.github.io/)), and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) (2021-2023 with Dr. [Lemao Liu](https://lemaoliu.github.io/homepage/)).
 
@@ -30,6 +30,8 @@ I fortunately interned at [ByteDance](https://www.bytedance.com/en/) (2024), [Mi
 
 
 # 🔥 News
+- *2025.04*: I join the Language Technology Lab at Alibaba Tongyi Lab, working mainly on multilingualism of multimodal large language models. 
+- *2025.03*: I graduate from Shanghai Jiao Tong University and receive the Master of Engineering in Computer Science and Engineering (with honor of Shanghai Jiao Tong University Outstanding Graduates).
 - *2024.07*: 🎉🎉 One paper about quality refiner for text-to-image generation is accepted by [ACM MM 2024](https://2024.acmmm.org/).
 - *2024.05*: 🎉🎉 One paper about watermark for large language models is accepted by [ACL 2024](https://2024.aclweb.org/).
 - *2024.05*: 🎉🎉 Adaptive Decoding is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
@@ -127,7 +129,7 @@ I fortunately interned at [ByteDance](https://www.bytedance.com/en/) (2024), [Mi
 
 
 # 📖 Education
-- *2022.09 - 2025.03*, Master of Science in Computer Science and Engineering, Shanghai Jiao Tong University.
+- *2022.09 - 2025.03*, Master of Engineering in Computer Science and Engineering, Shanghai Jiao Tong University.
 - *2018.09 - 2022.06*, Bachelor of Engineering in Computer Science and Engineering, Shanghai Jiao Tong University.
 
 
@@ -142,6 +144,7 @@ I fortunately interned at [ByteDance](https://www.bytedance.com/en/) (2024), [Mi
 
 
 # 🎖 Honors and Awards
+- *2025.03*: Shanghai Jiao Tong University Outstanding Graduates
 - *2023.08*: Optiver Excellent Student Scholarship
 - *2022.06*: Best Bachelor Thesis Award
 - *2022.06*: Shanghai Jiao Tong University Outstanding Graduates
