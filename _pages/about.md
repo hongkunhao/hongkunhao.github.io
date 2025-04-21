@@ -19,7 +19,7 @@ redirect_from:
 # About me
 I am currently an algorithm engineer (2025 - present)  in the Language Technology Lab at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/), working mainly on multilingualism of Multimodal Large Language Model. Before that, I received my master and bachelor degree in Computer Science and Engineering from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of [Prof. Rui Wang](https://wangruinlp.github.io/). 
 
-I fortunately interned at [ByteDance](https://www.bytedance.com/en/) (2024), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (2023 with Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/?from=https://research.microsoft.com/en-us/people/shujliu/&type=exact) and [Long Zhou](https://long-zhou.github.io/)), and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) (2021-2023 with Dr. [Lemao Liu](https://lemaoliu.github.io/homepage/)). Now I am a machine learning engineer intern at [ByteDance](https://www.bytedance.com/en/), working on multimodal large language models.
+I fortunately interned at [ByteDance](https://www.bytedance.com/en/) (2024), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (2023 with Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/?from=https://research.microsoft.com/en-us/people/shujliu/&type=exact) and [Long Zhou](https://long-zhou.github.io/)), and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) (2021-2023 with Dr. [Lemao Liu](https://lemaoliu.github.io/homepage/)).
 
 
 # 🔬 Research Interest
