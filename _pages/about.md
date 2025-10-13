@@ -32,8 +32,9 @@ I fortunately interned at [ByteDance](https://www.bytedance.com/en/) (2024), [Mi
 # 🔥 News
 - *2025.09*: We release Qwen3‑LiveTranslate [API](https://www.alibabacloud.com/help/en/model-studio/qwen3-livetranslate-flash-realtime), [Demo](https://huggingface.co/spaces/Qwen/Qwen3-Livetranslate-Demo), and [Blog](https://qwen.ai/blog?id=b2de6ae8555599bf3b87eec55a285cdf496b78e4&from=research.latest-advancements-list).
 - *2025.09*: We release Qwen3-Omni [Technical Report](https://arxiv.org/abs/2509.17765), [Checkpoint](https://huggingface.co/collections/Qwen/qwen3-omni-68d100a86cd0906843ceccbe), and [Blog](https://qwen.ai/blog?id=65f766fc2dcba7905c1cb69cc4cab90e94126bf4&from=research.latest-advancements-list).
-- *2025.01*: I join the Language Technology Lab at Alibaba Tongyi Lab, working mainly on multilingualism of multimodal large language models. 
+- *2025.04*: I join the Language Technology Lab at Alibaba Tongyi Lab as a full-time algorithm engineer, working mainly on multilingualism of multimodal large language models. 
 - *2025.03*: I graduate from Shanghai Jiao Tong University and receive the Master of Engineering in Computer Science and Engineering (with honor of Shanghai Jiao Tong University Outstanding Graduates).
+- *2025.01*: I start my internship at Alibaba Tongyi Lab.
 - *2024.07*: 🎉🎉 One paper about quality refiner for text-to-image generation is accepted by [ACM MM 2024](https://2024.acmmm.org/).
 - *2024.05*: 🎉🎉 One paper about watermark for large language models is accepted by [ACL 2024](https://2024.aclweb.org/).
 - *2024.05*: 🎉🎉 Adaptive Decoding is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
